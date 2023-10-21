@@ -1,6 +1,6 @@
 # Projeto ToDoList
 
-O Projeto ToDoList é um back end feito m conjunto com a Rocketseat e a professoas Daniele Leão desenvolvido em Java 17 com o uso do framework Spring Boot. Ele permite aos usuários criar, listar e atualizar tarefas em um banco de dados.
+O Projeto ToDoList é um back end feito m conjunto com a Rocketseat e a professora Daniele Leão desenvolvido em Java 17 com o uso do framework Spring Boot. Ele permite aos usuários criar, listar e atualizar tarefas em um banco de dados.
 
 # Dependências
 
